@@ -46,6 +46,8 @@ dependencies {
     compile 'org.apache.spark:spark-streaming_2.11:2.1.1'
     compile 'org.apache.spark:spark-core_2.11:2.1.1'
 
+    compile 'com.alibaba:fastjson:1.2.62'
+
     compile group: 'commons-io', name: 'commons-io', version: '2.5'
 }
 
